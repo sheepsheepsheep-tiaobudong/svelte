@@ -36,9 +36,8 @@
     which contains a serverless
     <a href="https://nodejs.org/en/">Node.js</a>
     function. See
-    <a href="/api/date">
-      <code>api/date</code>
-      for the Date API with Node.js
+    <a href="https://github.com/sheepsheepsheep-tiaobudong/svelte/edit/master/src/App.svelte">
+      The source code is hosted on github!! wow!!
     </a>
     .
   </p>
